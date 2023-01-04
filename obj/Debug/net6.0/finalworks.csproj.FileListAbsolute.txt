@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба it\finalworks\bin\Debug\net6.0\finalworks.exe
+C:\Users\User\Desktop\учеба it\finalworks\bin\Debug\net6.0\finalworks.deps.json
+C:\Users\User\Desktop\учеба it\finalworks\bin\Debug\net6.0\finalworks.runtimeconfig.json
+C:\Users\User\Desktop\учеба it\finalworks\bin\Debug\net6.0\finalworks.dll
+C:\Users\User\Desktop\учеба it\finalworks\bin\Debug\net6.0\finalworks.pdb
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\finalworks.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\finalworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\finalworks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\finalworks.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\finalworks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\finalworks.dll
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\refint\finalworks.dll
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\finalworks.pdb
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\finalworks.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба it\finalworks\obj\Debug\net6.0\ref\finalworks.dll
